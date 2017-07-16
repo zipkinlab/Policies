@@ -6,7 +6,7 @@ In the Zipkin Lab, we strive to make our work as transparent and reproducible as
 
 
 ## General project requirements and documentation
-All project components must be hosted in a public repository on Github, which should be linked to the lab's Github site. The project repo should be clearly named and ideally contains all the code and data used during project development. At a minimum, the repo must contain all the final data and code files, as well as a README file (in a separate, clearly marked folder if there are a number of files in the project repo). The README file should provide the following information:
+All project components must be hosted in a public repository on Github, which should be linked to the lab's Github site. The project repo should be clearly named and ideally contain the code and data used during project development. At a minimum, the repo must contain all the final data and code files, as well as a README file (in a separate, clearly marked folder if there are a number of files in the project repo). The README file should provide the following information:
 - [ ] Project abstract or description with a link to the published paper (if applicable)
 - [ ] Description of final file contents
 - [ ] File navigation within repo if there are a large number of files or if there are a number of extraneous files to the final product 
