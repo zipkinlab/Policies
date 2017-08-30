@@ -98,7 +98,6 @@ with these policies and I hope we can keep it this way.
 
 # Graduate students
 
-## Your program
 It is your responsibility to know all of the rules and requirements for your program. You should be aware of any and all deadlines.
 
 ## Academic year funding
