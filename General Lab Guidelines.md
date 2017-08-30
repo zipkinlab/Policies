@@ -14,8 +14,8 @@ throughout your research career. Sometimes you and I will not agree. This, too, 
 for detouring from a path I suggest. I will generally let you know how strongly I feel about a particular issue.
 
 From my experience, the most important predictors of success are:
-1.  	***Hard work***
-2.	  ***Ability to accept criticism*** and consider other points of view, and integrate these criticisms/viewpoints into your research process
+1. ***Hard work***
+2. ***Ability to accept criticism*** and consider other points of view, and integrate these criticisms/viewpoints into your research process
 
 It is a good idea to become very familiar with the literature in your field and spend time learning to code efficiently and effectively. 
 As a graduate student and post doc, you have a unique chance to explore new ideas and pursue topics that interest you. I encourage you 
