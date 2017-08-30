@@ -9,15 +9,14 @@ My primary goal is to help you make the transition from a student to a colleague
 biologist by the time you leave MSU. One of the most important things you can do to make this transition is take ownership of your 
 decisions and be proactive about figuring out what you need to do. Lots of other people, including me, will give you advice during your 
 time here. You need to sort through the advice, integrate it with your own knowledge, and decide on the best path for you. You will need 
-to make many decisions, from those concerning research methods to how to manage your time. Your decisions should be well-thought-out and
-you will need to justify them. Sometimes the decisions won’t produce the results that you want but this is an important part of the 
+to make many decisions, from those concerning research methods to how to manage your time. *Your decisions should be well-thought-out and you will need to justify them.* Sometimes the decisions won’t produce the results that you want but this is an important part of the 
 learning process and, if you have made well-informed, conscientious decisions, that is perfectly okay. This process will continue 
 throughout your research career. Sometimes you and I will not agree. This, too, is okay as long as you have good, well-informed reasons
 for detouring from a path I suggest. I will generally let you know how strongly I feel about a particular issue.
 
 From my experience, the most important predictors of success are:
-1.	**Hard work**
-2.	**Ability to accept criticism** and consider other points of view, and integrate these criticisms/viewpoints into your research process
+1.	***Hard work***
+2.	***Ability to accept criticism*** and consider other points of view, and integrate these criticisms/viewpoints into your research process
 
 It is a good idea to become very familiar with the literature in your field and spend time learning to code efficiently and effectively. 
 As a graduate student and post doc, you have a unique chance to explore new ideas and pursue topics that interest you. I encourage you 
@@ -32,7 +31,7 @@ between meetings so please come prepared with a brief summary of what you have b
 I encourage people to send me some written work at least 48 hours before our meeting. Your written materials do not have to be long
 although they can be (note- I may need more time for extensive materials such as a draft manuscript). The written work could be a 
 summary of the major conclusions from some data you are analyzing, a plan for how you will approach your comps, a draft of a proposal 
-or manuscript you are writing, etc. Written work is ultimately the most critical component of being successful in research. 
+or manuscript you are writing, etc. *Written work is ultimately the most critical component of being successful in research.* 
 Conducting the most elegantly designed experiment will get you nowhere if you don’t write it up. In addition, providing me written work 
 before our meetings will increase the probability I can give you useful advice. If you hand me something at our meetings, I will not 
 have had time to look it over and think about it.
@@ -96,8 +95,8 @@ in the lab for some amount of time every week. This helps build community and wi
 lab members on a regular basis (which, in my experience, can greatly increase productivity). So far, there have not been any issues
 with these policies and I hope we can keep it this way.  
 
-# Graduate students
 
+# Graduate students
 It is your responsibility to know all of the rules and requirements for your program. You should be aware of any and all deadlines.
 
 ## Academic year funding
@@ -145,7 +144,4 @@ on your research from the very first day you join the lab. I expect that you wil
 year, before you take your qualifying exam (which typically occurs in the fall semester of your third year).
 
 
-
-
-> The material in this code of conduct is derived from "[Bahlai Lab Code of Conduct]
-(https://github.com/BahlaiLab/Policies/blob/master/Code_of_conduct.md)" by Dr. Christie Bahlai, used under CC BY 4.0. 
+> The material in this code of conduct is derived from lab policies by Dr. Catherine Lindell and Dr. Regina Baucom.
