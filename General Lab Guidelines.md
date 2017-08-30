@@ -4,7 +4,7 @@ Note to lab members: this document is a work in progress and may be updated at a
 on a regular basis (semi-annually). It is your responsibility to be familiar with the content. Upon joining the lab, please contact me 
 to be added to the group listserv.
 
-##Philosophy
+## Philosophy
 My primary goal is to help you make the transition from a student to a colleague. You should be an independent and professional research 
 biologist by the time you leave MSU. One of the most important things you can do to make this transition is take ownership of your 
 decisions and be proactive about figuring out what you need to do. Lots of other people, including me, will give you advice during your 
@@ -23,7 +23,7 @@ It is a good idea to become very familiar with the literature in your field and 
 As a graduate student and post doc, you have a unique chance to explore new ideas and pursue topics that interest you. I encourage you 
 to take advantage of this time, to deeply consider what motivates you, and to pursue new opportunities as they become available.
 
-##Our one-on-one meetings
+## Our one-on-one meetings
 Please schedule meetings with me at times when you want to discuss ideas or need feedback. I expect you will drive the agenda of our 
 one-on-one meetings, providing a list of things we need to discuss—this is part of your taking charge of your education and development. 
 I will let you know if I have anything that I would like to discuss before we meet. I may forget the details of your specific project in
@@ -41,7 +41,7 @@ The length of time between these meetings will vary, depending on your stage and
 time in a single week. Other times, it may not be for several weeks. However, it’s probably a good idea to check in at least monthly, 
 even during times when you are busy with other, non-research related tasks (e.g., course work, teaching, etc.). 
 
-##Publishing
+## Publishing
 Publications are your only true form of currency. Your degree alone, or even your research experiences, won’t get you a job and neither 
 will your grades during graduate school. It is to your advantage to publish early and often. I aim to provide you with diverse project 
 and publishing experiences, including opportunities to co-author papers because it is imperative that you get ample practice writing 
@@ -52,7 +52,7 @@ In the lab, we strive to make our work as transparent and reproducible as possib
 that you will upload all materials related to the project (i.e., data and code) to our lab’s Github site. Please see the “Project 
 completion checklist” for a detailed list of tasks associated with closing out a project. 
 
-##Letters of recommendation, editing proposals/manuscripts
+## Letters of recommendation, editing proposals/manuscripts
 I always have commitments on my schedule so please give me adequate time if you need a letter of recommendation or want me to edit a 
 proposal or manuscript with a deadline. In most cases, a week should be a sufficient amount of time. However, whenever possible, I 
 would appreciate more advanced notice. There might be certain times when I am jammed so giving me the most amount of time possible 
@@ -63,7 +63,7 @@ funding agency, any guidelines for letter writers or guidelines about the propos
 For letters of recommendation, Include your CV and any other information that can help me write the best letter possible. Also, please
 send me at least one email reminder a day before the deadline.
 
-##Group lab meetings
+## Group lab meetings
 Lab meetings provide an excellent opportunity to learn about current research in the lab and to present whatever it is that you are 
 working on and get feedback. At the beginning of each semester, we will pick a day and time for lab meetings. Each member of the lab 
 will present at least once a semester. You (or I) may decide that it is worth presenting more than once, depending on your particular 
@@ -75,7 +75,7 @@ The presenter should send any written materials to the lab listserv at least a t
 come having read any materials and prepared to give feedback. Lab meetings are one of my favorite parts of my job and some of my best 
 memories from graduate school. I hope they will be as useful and engaging to you as they are for me.  
 
-##Travel – conferences and workshops
+## Travel – conferences and workshops
 Presenting at conferences is a crucial part of your education. Conference attendance is also valuable for building your networking 
 skills, this is especially true when you are near the end of your time in the lab and looking for postdocs or jobs. I encourage you to 
 be thinking about what meetings you would like to attend and when. It is my intention to cover your travel expenses to meetings when 
@@ -84,7 +84,7 @@ have partial funding. As such, you should look for funding opportunities and app
 you plan to attend a meeting. I encourage you to talk with me well in advance of abstract deadlines about whether a particular 
 conference is a good fit for your work and also about what funding I have available and how much of your trip I will be able to cover.
 
-##Working in the lab and vacation
+## Working in the lab and vacation
 I encourage everyone to take vacations! Vacations can help you reenergize and refocus. It is your responsibility to let me know when 
 you plan to vacation or when you will away from the lab. It helps if you tell me as soon as you know you will gone but please let me 
 know at least two weeks in advance (for multi-day trips). 
@@ -96,12 +96,12 @@ in the lab for some amount of time every week. This helps build community and wi
 lab members on a regular basis (which, in my experience, can greatly increase productivity). So far, there have not been any issues
 with these policies and I hope we can keep it this way.  
 
-#Graduate students
+# Graduate students
 
-##Your program
+## Your program
 It is your responsibility to know all of the rules and requirements for your program. You should be aware of any and all deadlines.
 
-##Academic year funding
+## Academic year funding
 IBIO guarantees PhD students five years of funding during the academic years (fall and spring terms) and three years for Masters 
 students. Funding past these time frames is not guaranteed. Many students in the program take a year or two longer and do receive 
 teaching assistantships after the guaranteed period has ended. However, you can’t depend on this. 
@@ -117,7 +117,7 @@ you to teach every semester that you are a student, as this can impede your prog
 work with you to obtain research-related funding if you don’t have it. In some cases, you may need to take the lead on proposals. I am
 always available to talk with you about this and I encourage you to bring up any funding issues in our meetings if you have concerns.
 
-##Summer funding
+## Summer funding
 Ideally, you will be funded over the summers while you are a graduate student. You should talk to me no later than February of each 
 year so that we can discuss your funding for the upcoming summer and develop a plan. You will receive the standard IBIO summer funding
 rate (set annually) if you receive summer funding from one of my grants.
@@ -128,14 +128,14 @@ invaluable experiences). Obtaining your own funding looks excellent on your CV; 
 for other things (e.g., conference travel). Unfortunately, lab funding is a zero sum game. Once we spend it on one thing, we can’t 
 spend it on something else. It is my intention to provide you with as much summer funding as I can if you are unable to secure your own. But this, of course, is dependent on what money I have available. While there is no guarantee of summer funding, I will try my hardest to help you obtain partial or full funding over the summers while you are a graduate student.
 
-##Committee meetings 
+## Committee meetings 
 I recommend you take full advantage of your committee meetings, which in most cases, should occur yearly. You won’t have all of your 
 committee members in one room too often during your training so make sure you are extremely well-prepared. You should send the committee
 an agenda and any documents you want them to read three to five days before the meeting. During the meeting, you will generally give 
 an oral presentation, letting people know the very specific goals of the meeting first and then proceeding systematically through the 
 areas you need to address. If you aren’t prepared for your meeting, it will be clear to the committee.
 
-##Your dissertation and publishing
+## Your dissertation and publishing
 I expect your PhD dissertation will comprise four high-quality manuscripts (two for a masters thesis), in which you are the first 
 author. You will likely also have to write a short introduction tying together your chapters and possibly a (very short) conclusion 
 section, depending on what your committee requests. 
