@@ -95,6 +95,7 @@ lab members on a regular basis (which, in my experience, can greatly increase pr
 with these policies and I hope we can keep it this way.  
 
 
+
 # Graduate students
 It is your responsibility to know all of the rules and requirements for your program. You should be aware of any and all deadlines.
 
@@ -141,6 +142,8 @@ At least two of the manuscripts should be accepted for publication before you de
 should be submitted. The publication process can be long and arduous. Therefore you need to plan carefully. I encourage you to start 
 on your research from the very first day you join the lab. I expect that you will submit your first paper around the end of your second
 year, before you take your qualifying exam (which typically occurs in the fall semester of your third year).
+
+
 
 
 > The material in this code of conduct is derived from lab policies by Dr. Catherine Lindell and Dr. Regina Baucom.
