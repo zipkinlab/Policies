@@ -58,7 +58,7 @@ would appreciate more advanced notice. There might be certain times when I am ja
 
 For any letter I write or proposal you want me to look at, be sure to include all the relevant details in the email you send, i.e. the 
 funding agency, any guidelines for letter writers or guidelines about the proposal, deadlines, where the letter should be sent, etc. 
-For letters of recommendation, Include your CV and any other information that can help me write the best letter possible. Also, please
+For letters of recommendation, include your CV and any other information that can help me write the best letter possible. Also, please
 send me at least one email reminder a day before the deadline.
 
 ## Group lab meetings
