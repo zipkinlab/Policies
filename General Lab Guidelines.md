@@ -36,7 +36,7 @@ before our meetings will increase the probability I can give you useful advice. 
 have had time to look it over and think about it.
 
 The length of time between these meetings will vary, depending on your stage and immediate goals. Sometimes, we will meet a couple of 
-time in a single week. Other times, it may not be for several weeks. However, it’s probably a good idea to check in at least monthly, 
+times in a single week. Other times, it may not be for several weeks. However, it’s probably a good idea to check in at least monthly, 
 even during times when you are busy with other, non-research related tasks (e.g., course work, teaching, etc.). 
 
 ## Publishing
