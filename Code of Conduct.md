@@ -2,7 +2,7 @@
 
 Michigan State University's policy on diversity and inclusion states: "At MSU we take great pride in our diversity. Valuing inclusion means providing all who live, learn, and work at the university the opportunity to actively participate in a vibrant, intellectual community that offers a broad range of ideas and perspectives. To benefit from our campus’ diversity, we must embrace the opportunity to learn from each other. At MSU we welcome a full spectrum of experiences, viewpoints, and intellectual approaches because it enriches the conversation and benefits everyone, even as it challenges us to grow and think differently."
 
-The Zipkin lab is dedicated to maintaining an inclusive culture. We value the participation of every member of our community and want to ensure that each lab member and collaborator has a positive educational experience. Accordingly, everyone who participates in a Zipkin Lab project is expected to show respect and courtesy to other community members at all time.
+The Zipkin Lab is dedicated to maintaining an inclusive culture. We value the participation of every member of our community and want to ensure that each lab member and collaborator has a positive educational experience. Accordingly, everyone who participates in a Zipkin Lab project is expected to show respect and courtesy to other community members at all time.
 
 We ask all members of the community to conform to the following Code of Conduct:
 
