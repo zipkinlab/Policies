@@ -2,13 +2,20 @@
 
 This folder contains DEI resources collated by Zipkin lab members. 
 
-## Links to Helpful Resources
+## Suggested Readings and Links to Helpful Resources
 
-### Articles to read
+### Teaching Resources compiled by MSU Hub
+Hood Feminism - Mikki Kendall
 
-### Books to read
+Superior - Angela Saini
 
-### Videos to watch
+How to be an Anti Racist
+
+[Anti-Racist Path: Series for dialogue, skill-building, and action](https://inclusion.msu.edu/education/Resources.html)
+
+[2020-21 MSU Learning Communities](https://aan.msu.edu/teaching-learning/learning-communities/2020-21-learning-communities/)
+
+[Learning for Justice](https://www.learningforjustice.org/about)
 
 ### Challenges and tests
 [21-day racial equity building challenge](https://debbyirving.com/21-day-challenge/)
