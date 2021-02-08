@@ -4,12 +4,14 @@ This folder contains DEI resources collated by Zipkin lab members.
 
 ## Suggested Readings and Links to Helpful Resources
 
-### Teaching Resources compiled by MSU Hub
+### Teaching Resources 
 Hood Feminism - Mikki Kendall
 
 Superior - Angela Saini
 
 How to be an Anti Racist
+
+[Becoming an Anti-Racist Educator](https://wheatoncollege.edu/academics/special-projects-initiatives/center-for-collaborative-teaching-and-learning/anti-racist-educator/)
 
 [Anti-Racist Path: Series for dialogue, skill-building, and action](https://inclusion.msu.edu/education/Resources.html)
 
