@@ -34,6 +34,8 @@ How to be an Anti Racist - Ibram X. Kendi
 [2020-21 MSU Learning Communities](https://aan.msu.edu/teaching-learning/learning-communities/2020-21-learning-communities/)
 
 ### Ecology and Evolution-focused Resources
+[Resources for DEIJ in Nature, Ecology, and Conservation (Crowd-sourced list of links and resources)](https://docs.google.com/spreadsheets/d/1K-N6o07mUl5xSLVwHGhe54m550bUBVHUefW6OjOVxcM/edit#gid=0)
+
 [History of Diversity and Inclusion in Animal Behavior (Article)](https://github.com/zipkinlab/Policies/blob/master/DEI%20Resources/Lee2020_Article_DEIHistoryAnimBehav.pdf)
 
 [Recreating Wakanda by Promoting Black Excellence in Ecology and Evolution (Article)](https://github.com/zipkinlab/Policies/blob/master/DEI%20Resources/Schell_etal_2020_RecreatingWakandabypromotingBlackexcellenceinEE.pdf)
