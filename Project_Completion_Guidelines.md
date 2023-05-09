@@ -1,7 +1,7 @@
 
 # Project completion guidelines
 
-In the Zipkin Lab, we strive to make our work as transparent and reproducible as possible. The following is a checklist with all information that should be included upon completion of a project (i.e., publication of a paper). This document is intended to serve as a guideline, covering the necessary components of most projects (but may vary slightly from project to project). It is preferable, and probably easier, to keep these requirements in mind throughout project development and upload documents as they become available, but all elements should be present at project wrap-up. 
+In the Zipkin Lab, we strive to make our work transparent and reproducible. The following is a checklist with all information that should be included upon completion of a project (i.e., publication of a paper). This document is intended to serve as a guide, covering the necessary components of most projects (but may vary slightly from project to project). It is preferable, and probably easier, to keep these requirements in mind throughout project development and upload documents as they become available (or to code directly through Git), but all elements should be present at project wrap-up. 
 
 
 
@@ -17,7 +17,7 @@ All project components must be hosted in a public repository on Github, which sh
 ## Data
 Data used in support of the project must be:
 - [ ] Saved in an appropriate, non-proprietary format with accompanying metadata.
-- [ ] In a public archive, or, if data are proprietary, a version of the data used in the project must be saved in the lab's private repository.
+- [ ] In a public archive (e.g., Zenodo), or, if data are proprietary, a version of the data used in the project must be saved in the lab's private repository.
 - [ ] Linked and briefly described in the project README. The README file should contain all metadata including descriptions of data fields even if the data are not made publically available. 
 
 
