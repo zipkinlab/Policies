@@ -47,7 +47,7 @@ able to write clearly and effectively is an important skill in research, policy,
 
 In the lab, we strive to make our work as transparent and reproducible as possible. To that end, once you publish an article, I expect 
 that you will upload all materials related to the project (i.e., data and code) to our lab’s Github site. Please see the [“Project 
-completion checklist”]( for a detailed list of tasks associated with closing out a project. 
+completion checklist”](https://github.com/zipkinlab/Policies/blob/master/Project_Completion_Guidelines.md) for a detailed list of tasks associated with closing out a project. 
 
 ## Letters of recommendation, editing proposals/manuscripts
 I always have commitments on my schedule so please give me adequate time if you need a letter of recommendation or want me to edit a 
