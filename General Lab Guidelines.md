@@ -1,8 +1,7 @@
 # Welcome to the Zipkin Lab!
 
 Note to lab members: this document is a work in progress and may be updated at any time. Please make sure that you review the lab policies
-on a regular basis (semi-annually). It is your responsibility to be familiar with the content. Upon joining the lab, please contact me 
-to be added to the group listserv.
+on a regular basis (semi-annually). It is your responsibility to be familiar with the content. 
 
 ## Philosophy
 My primary goal is to help you make the transition from a student to a colleague. You should be an independent and professional research 
@@ -18,7 +17,7 @@ From my experience, the most important predictors of success are:
 2. ***Ability to accept criticism*** and consider other points of view, and integrate these criticisms/viewpoints into your research process
 
 It is a good idea to become very familiar with the literature in your field and spend time learning to code efficiently and effectively. 
-As a graduate student and post doc, you have a unique chance to explore new ideas and pursue topics that interest you. I encourage you 
+As a graduate student and postdoc, you have a unique chance to explore new ideas and pursue topics that interest you. I encourage you 
 to take advantage of this time, to deeply consider what motivates you, and to pursue new opportunities as they become available.
 
 ## Our one-on-one meetings
@@ -31,7 +30,7 @@ I encourage people to send me some written work at least 48 hours before our mee
 although they can be (note- I may need more time for extensive materials such as a draft manuscript). The written work could be a 
 summary of the major conclusions from some data you are analyzing, a plan for how you will approach your comps, a draft of a proposal 
 or manuscript you are writing, etc. **Written work is ultimately the most critical component of being successful in research.** 
-Conducting the most elegantly designed experiment will get you nowhere if you don’t write it up. In addition, providing me written work 
+Developing the most elegant model will get you nowhere if you don’t write it up. In addition, providing me written work 
 before our meetings will increase the probability I can give you useful advice. If you hand me something at our meetings, I will not 
 have had time to look it over and think about it.
 
@@ -47,8 +46,8 @@ and producing peer reviewed publications during your time in the lab. This will 
 able to write clearly and effectively is an important skill in research, policy, management, and education. 
 
 In the lab, we strive to make our work as transparent and reproducible as possible. To that end, once you publish an article, I expect 
-that you will upload all materials related to the project (i.e., data and code) to our lab’s Github site. Please see the “Project 
-completion checklist” for a detailed list of tasks associated with closing out a project. 
+that you will upload all materials related to the project (i.e., data and code) to our lab’s Github site. Please see the [“Project 
+completion checklist”]( for a detailed list of tasks associated with closing out a project. 
 
 ## Letters of recommendation, editing proposals/manuscripts
 I always have commitments on my schedule so please give me adequate time if you need a letter of recommendation or want me to edit a 
