@@ -2,10 +2,10 @@
 
 The purpose of this document is to provide guidance to new lab members. The guidance is meant to be fairly general and there may be additional tasks for specific members to do (i.e., graduate students will need to register for class). Note to lab members: this document is a work in progress and may be updated at any time. Please take the time to update as you find things are out of date
 
-## Join the lab listserv
+### Join the lab listserv
 As you are about to join the lab, please email Elise (ezipkin@msu.edu) so that she can add you to the lab listserv.  Sometimes the MSU email accounts give us trouble, so please send both your MSU email and a backup email (preferably gmail).
 
-## Get your MSU ID
+### Get your MSU ID
 [I think you need to go to the international center. Is that still the case?]
 
 ## Meet the IBIO Staff and get your keys to the lab
