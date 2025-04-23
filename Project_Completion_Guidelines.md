@@ -36,3 +36,6 @@ The website provides a front-end for people navigating our projects by research 
 - [ ] Giving a plain language project description. In most cases, this will be the paper's abstract.
 - [ ] Including contact information for authors, and if data are proprietary, for data creators/owners.
 - [ ] Making it pretty by including a snazzy graphic as a thumbnail.
+
+## GitHub project checklist
+The GitHub project checklist is located on the lab Teams site (Files -> GitHub -> GitHub Project Checklist.docx) or at [this link](https://michiganstate.sharepoint.com/:w:/r/sites/STUOT-ResearchGroup/Shared%20Documents/General/GitHub/Github%20Project%20Checklist.docx?d=w2c29be3eda324515bb264af68f3b242f&csf=1&web=1&e=nTAR5Y). There is also a spreadsheet of different lab repositories and what needs to be done, for use by the lab's GitHub managers [at this link](https://michiganstate.sharepoint.com/:x:/r/sites/STUOT-ResearchGroup/Shared%20Documents/General/GitHub/GithubProjects.xlsx?d=w6e21ffea9efe45ce993b24157dfe59be&csf=1&web=1&e=YyG1hF) 
