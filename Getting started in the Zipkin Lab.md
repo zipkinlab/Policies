@@ -9,7 +9,7 @@ As you are about to join the lab, please email Elise (ezipkin@msu.edu) so that s
 Email your GitHub username to one of the lab GitHub managers (Wendy - leuenbe9@msu.edu, Bruna - bamaral@msu.edu, Sally - mart3115@msu.edu). 
 
 ## Join the lab Teams
-Email your netID (MSU email) to the lab Teams manager (Wendy - leuenbe9@msu.edu).
+Email your netID (MSU email) to the lab Teams manager (Wendy - leuenbe9@msu.edu, Sally - mart3115@msu.edu).
 
 ## Get your MSU ID
 [I think you need to go to the international center. Is that still the case?]
