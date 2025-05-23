@@ -6,7 +6,7 @@ The purpose of this document is to provide guidance to new lab members. The guid
 As you are about to join the lab, please email Elise (ezipkin@msu.edu) so that she can add you to the lab listserv.  Sometimes the MSU email accounts give us trouble, so please send both your MSU email and a backup email (preferably gmail).
 
 ## Join the lab GitHub
-Email your GitHub username to one of the lab GitHub managers (Kayla - davisk93@msu.edu, Wendy - leuenbe9@msu.edu, Bruna - bamaral@msu.edu). 
+Email your GitHub username to one of the lab GitHub managers (Wendy - leuenbe9@msu.edu, Bruna - bamaral@msu.edu, Sally - mart3115@msu.edu). 
 
 ## Join the lab Teams
 Email your netID (MSU email) to the lab Teams manager (Wendy - leuenbe9@msu.edu).
